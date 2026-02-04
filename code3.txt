@@ -1,1 +1,2 @@
 This is new change in code3.txt
+new line
